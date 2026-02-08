@@ -1,4 +1,4 @@
-# Number of cities - SQL & Python Data Analysis
+# Number of cities Analysis
 
 ### Created by Patrycja Decowska
 ## Data source 
