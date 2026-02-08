@@ -21,7 +21,7 @@ from a fictional SQL database.
 ### Tools
 - SQL
 - Jupyter Notebook
-- 
+
 ### SQL Analysis
 The country table is insufficient to store all of the information I need.
 My query required data from two tables - country table and city table.
