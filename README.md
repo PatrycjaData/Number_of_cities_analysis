@@ -1,4 +1,4 @@
-# Number of cities per country - SQL & Python Data Analysis
+# Number of cities - SQL & Python Data Analysis
 
 ### Created by Patrycja Decowska
 ## Data source 
