@@ -5,15 +5,16 @@
 Sample database from SQL course
 
 ## This repository contains the files below:
-- cities_per_country - CSV file exported from SQL, list of cities per contry
-- SQL_script - SQL analysis
-- Visualization_Python - final analysis and Python visualization
+- `cities_per_country` - CSV file exported from SQL, list of cities per contry
+- `SQL_script` - SQL analysis
+- `Visualization_Python` - final analysis and Python visualization
+- `Licence` - my project is licensed under the MIT License.
 
 ## Main Goal 
 To analyze and present the number of cities for each country in a given database.
 
 ## Description
-I have combined SQL and Python to perform a simple data analysis.This project analyzes how many cities exist in each country using data
+I have combined SQL and Python to perform a simple data analysis. This project analyzes how many cities exist in each country using data
 from a fictional SQL database.
 
 ### SQL Analysis
