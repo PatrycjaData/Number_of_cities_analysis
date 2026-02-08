@@ -51,6 +51,11 @@ using `pd.read_csv`. I explored basic information, checked structure and
 statistics. Afterwards, I created a bar chart to visualize the number of
 cities per country.
 
+**Python Skills:**
+- Loading and handling data
+- Basic exploratory data analysis
+- Data visualization
+
 ## Results
 
 The chart shows that India has the most cities in this database.
