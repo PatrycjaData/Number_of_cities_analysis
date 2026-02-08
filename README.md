@@ -4,7 +4,7 @@
 ## Data source 
 Sample database from SQL course
 
-##This repoaitory contain the files below:
+## This repository contains the files below:
 - cities_per_country - CSV file exported from SQL, list of cities per contry
 - SQL_script - SQL analysis
 - Visualization_Python - final analysis and Python visualization
