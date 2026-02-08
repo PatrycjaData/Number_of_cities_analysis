@@ -6,7 +6,7 @@ Sample database from SQL course
 
 ## Files in this project
 - `cities_per_country` - dataset exported from SQL
-- `SQL_script` - SQL quer
+- `SQL_script` - SQL query
 - `Visualization_Python` - upyter Notebook for final analysis and Python visualization
 - `README.md` - describes this project
 - `Licence` - MIT License for this project
