@@ -4,6 +4,9 @@
 ## Data source 
 Sample database from SQL course
 
+## Main Goal 
+To analyze and present the number of cities for each country in a given database.
+
 ## Files in this project
 - `cities_per_country` - dataset exported from SQL
 - `SQL_script` - SQL query
@@ -14,9 +17,6 @@ Sample database from SQL course
 ## Tools
 - SQL
 - Jupyter Notebook
-
-## Main Goal 
-To analyze and present the number of cities for each country in a given database.
 
 ## Description
 I have combined SQL and Python to perform a simple data analysis. This project analyzes how many cities exist in each country using data
