@@ -8,9 +8,9 @@ Sample database from SQL course
 To analyze and present the number of cities for each country in a given database.
 
 ## Files in this project
-- `cities_per_country` - dataset exported from SQL
 - `SQL_script` - SQL query
 - `Visualization_Python` - upyter Notebook for final analysis and Python visualization
+- `cities_per_country` - dataset exported from SQL
 - `README.md` - describes this project
 - `Licence` - MIT License for this project
 
