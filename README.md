@@ -4,11 +4,12 @@
 ## Data source 
 Sample database from SQL course
 
-## This repository contains the files below:
-- `cities_per_country` - CSV file exported from SQL, list of cities per contry
-- `SQL_script` - SQL analysis
-- `Visualization_Python` - final analysis and Python visualization
-- `Licence` - my project is licensed under the MIT License.
+## Files in this project
+- `cities_per_country` - dataset exported from SQL
+- `SQL_script` - SQL quer
+- `Visualization_Python` - upyter Notebook for final analysis and Python visualization
+- `README.md` - describes this project
+- `Licence` - MIT License for this project
 
 ## Main Goal 
 To analyze and present the number of cities for each country in a given database.
