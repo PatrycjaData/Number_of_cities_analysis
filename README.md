@@ -1,6 +1,6 @@
 # Number of cities per country - SQL & Python Data Analysis
 
-## Created by Patrycja Decowska
+### Created by Patrycja Decowska
 ## Data source 
 Sample database from SQL course
 
@@ -11,16 +11,16 @@ Sample database from SQL course
 - `README.md` - describes this project
 - `Licence` - MIT License for this project
 
+## Tools
+- SQL
+- Jupyter Notebook
+
 ## Main Goal 
 To analyze and present the number of cities for each country in a given database.
 
 ## Description
 I have combined SQL and Python to perform a simple data analysis. This project analyzes how many cities exist in each country using data
 from a fictional SQL database.
-
-### Tools
-- SQL
-- Jupyter Notebook
 
 ### SQL Analysis
 The country table is insufficient to store all of the information I need.
