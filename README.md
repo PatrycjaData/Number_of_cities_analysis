@@ -18,6 +18,10 @@ To analyze and present the number of cities for each country in a given database
 I have combined SQL and Python to perform a simple data analysis. This project analyzes how many cities exist in each country using data
 from a fictional SQL database.
 
+### Tools
+- SQL
+- Jupyter Notebook
+- 
 ### SQL Analysis
 The country table is insufficient to store all of the information I need.
 My query required data from two tables - country table and city table.
