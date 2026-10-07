@@ -9,24 +9,24 @@ To analyze and present the number of cities for each country in a given database
 
 ## Files in this project
 - `SQL_script` - SQL query
-- `Visualization_Python` - upyter Notebook for final analysis and Python visualization
+- `Visualization_Python` - Jupyter Notebook for final analysis and Python visualization
 - `cities_per_country` - dataset exported from SQL
 - `README.md` - describes this project
-- `Licence` - MIT License for this project
+- `Licence` - MIT Licence for this project
 
 ## Tools
 - SQL
 - Jupyter Notebook
 
 ## Description
-I have combined SQL and Python to perform a simple data analysis. This project analyzes how many cities exist in each country using data
+I have combined SQL and Python to perform a simple data analysis. This project analyses how many cities exist in each country using data
 from a fictional SQL database.
 
 ### SQL Analysis
 The country table is insufficient to store all of the information I need.
 My query required data from two tables - country table and city table.
 
-I have used aggregate function `COUNT` to count the numberof cities. 
+I have used aggregate function `COUNT` to count the number of cities. 
 `INNER JOIN` allows me to select data from two tables and `country_id` is the common field in both of them. 
 Then I used `GROUP BY` in my code to take duplicate values and collect them together. 
 `HAVING` clause allows me to filter the results. Thanks to this, I am able to see total number of cities for each country.
