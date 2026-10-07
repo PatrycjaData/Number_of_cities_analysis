@@ -19,7 +19,7 @@ To analyse and present the number of cities for each country in a given database
 - Jupyter Notebook
 
 ## Description
-I have combined SQL and Python to perform a simple data analysis. This project analyses how many cities exist in each country using data
+I have combined SQL and Python to perform a simple data analysis. This project analysis how many cities exist in each country using data
 from a fictional SQL database.
 
 ### SQL Analysis
