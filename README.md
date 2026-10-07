@@ -5,7 +5,7 @@
 Sample database from SQL course
 
 ## Main Goal 
-To analyze and present the number of cities for each country in a given database.
+To analyse and present the number of cities for each country in a given database.
 
 ## Files in this project
 - `SQL_script` - SQL query
