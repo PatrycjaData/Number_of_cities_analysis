@@ -9,7 +9,7 @@ To analyse and present the number of cities for each country in a given database
 
 ## Files in this project
 - `SQL_script` - SQL query
-- `Visualization_Python` - Jupyter Notebook for final analysis and Python visualization
+- `Visualisation_Python` - Jupyter Notebook for final analysis and Python visualisation
 - `cities_per_country` - dataset exported from SQL
 - `README.md` - describes this project
 - `Licence` - MIT Licence for this project
@@ -46,7 +46,7 @@ number of cities and in ascending alphabetical order for countries.
 - Joining multiple tables
 - Aggregating data
 - Filtering aggregated results
-- Preparing data for further analysis and visualization
+- Preparing data for further analysis and visualisation
 
 ### Python Analysis & Visualization
 I used Python for further analysis and visualization.
@@ -58,7 +58,7 @@ cities per country.
 **Python Skills:**
 - Loading and handling data
 - Basic exploratory data analysis
-- Data visualization
+- Data visualisation
 
 ## Results
 
